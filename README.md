@@ -14,12 +14,20 @@ License: MIT
 
 ## useage
 ### [link] origins
-href="https://meyerweb.com/eric/tools/css/reset/reset.css"  
-href="https://necolas.github.io/normalize.css/latest/normalize.css"  
+```
+href="https://meyerweb.com/eric/tools/css/reset/reset.css"
+```
+```
+href="https://necolas.github.io/normalize.css/latest/normalize.css"
+```
 
 ### [link] this repository
-href="https://raw.githack.com/taylorgy/css-reset/main/reset.css"  
-href="https://raw.githack.com/taylorgy/css-reset/main/normalize.css"  
+```
+href="https://raw.githack.com/taylorgy/css-reset/main/reset.css"
+```
+```
+href="https://raw.githack.com/taylorgy/css-reset/main/normalize.css"
+```
 
 ### [local] css files
-download link: https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip
+[click here to download](https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip)
