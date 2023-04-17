@@ -1,17 +1,17 @@
 # css-reset
-provide 2 css files to "clean" formats of browsers.
+Provide 2 css files to "clean" formats of browsers.
 
 ## reset.css
-remove all css formats of browsers.  
+Remove all css formats of browsers.  
 v2.0 | 20110126  
 project page: https://meyerweb.com/eric/tools/css/reset/  
-License: none (public domain)  
+license: none (public domain)  
 
 ## normalize.css
-normalize css formats of browsers.  
+Normalize css formats of browsers.  
 v8.0.1  
 project page: https://github.com/necolas/normalize.css  
-License: MIT  
+license: MIT  
 
 ## useage
 ### [link] origins
