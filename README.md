@@ -13,10 +13,13 @@ project page: https://github.com/necolas/normalize.css
 License: MIT  
 
 ## useage
-### original files
+### [link] origins
 href="https://meyerweb.com/eric/tools/css/reset/reset.css"  
 href="https://necolas.github.io/normalize.css/latest/normalize.css"  
 
-### this repository
-https://raw.githubusercontent.com/TaylorGy/css-reset/main/reset.css
-https://raw.githubusercontent.com/TaylorGy/css-reset/main/normalize.css
+### [link] this repository
+href="https://raw.githack.com/taylorgy/css-reset/main/reset.css"  
+href="https://raw.githack.com/taylorgy/css-reset/main/normalize.css"  
+
+### [local] css files
+download link: https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip
