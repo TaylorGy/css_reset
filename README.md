@@ -1,5 +1,5 @@
 # package-css
-Integrate css files of various functions.  See details below.
+Integrate css files of various functions. See details below.  
 [click to download](https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip)
 
 ## reset.css
@@ -7,8 +7,8 @@ Remove all css formats of browsers.
 v2.0 | 20110126  
 website: https://meyerweb.com/eric/tools/css/reset/  
 license: none (public domain)  
-\<link\>:  
-```html
+link:  
+```
 href="https://meyerweb.com/eric/tools/css/reset/reset.css"
 ```
 ```
@@ -20,7 +20,7 @@ Normalize css formats of browsers.
 v8.0.1  
 website: https://github.com/necolas/normalize.css  
 license: MIT  
-url:  
+link:  
 ```
 href="https://necolas.github.io/normalize.css/latest/normalize.css"
 ```
