@@ -27,3 +27,9 @@ href="https://necolas.github.io/normalize.css/latest/normalize.css"
 ```
 href="https://raw.githack.com/taylorgy/package-css/main/normalize.css"
 ```
+
+## clearfix.css
+Solve problems of "margin collapsing" and "height crash" by simply add a class "clearfix"  
+```
+href="https://raw.githack.com/taylorgy/package-css/main/clearfix.css"
+```
