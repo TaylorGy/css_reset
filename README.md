@@ -1,34 +1,29 @@
-# css-reset
-Provide 2 css files to "clean" formats of browsers.
+# package-css
+Integrate css files of various functions.  See details below.
+[click to download](https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip)
 
 ## reset.css
 Remove all css formats of browsers.  
 v2.0 | 20110126  
-project page: https://meyerweb.com/eric/tools/css/reset/  
+website: https://meyerweb.com/eric/tools/css/reset/  
 license: none (public domain)  
+\<link\>:  
+```html
+href="https://meyerweb.com/eric/tools/css/reset/reset.css"
+```
+```
+href="https://raw.githack.com/taylorgy/package-css/main/reset.css"
+```
 
 ## normalize.css
 Normalize css formats of browsers.  
 v8.0.1  
-project page: https://github.com/necolas/normalize.css  
+website: https://github.com/necolas/normalize.css  
 license: MIT  
-
-## useage
-### [link] origins
-```
-href="https://meyerweb.com/eric/tools/css/reset/reset.css"
-```
+url:  
 ```
 href="https://necolas.github.io/normalize.css/latest/normalize.css"
 ```
-
-### [link] this repository
 ```
-href="https://raw.githack.com/taylorgy/css-reset/main/reset.css"
+href="https://raw.githack.com/taylorgy/package-css/main/normalize.css"
 ```
-```
-href="https://raw.githack.com/taylorgy/css-reset/main/normalize.css"
-```
-
-### [local] css files
-[click here to download](https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip)
