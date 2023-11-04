@@ -33,3 +33,8 @@ Solve problems of "margin collapsing" and "height crash" by simply add a class "
 ```HTML
 <link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/clearfix.css">
 ```
+## preset.css
+integrate all settings and remove "text-decoration" for links
+```HTML
+<link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/preset.css">
+```
