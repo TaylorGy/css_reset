@@ -1,6 +1,6 @@
 # package-css
 Integrate css files of various functions. See details below.  
-[click to download](https://github.com/taylorgy/css-reset/archive/refs/heads/main.zip)
+[click to download](https://github.com/taylorgy/lib-css/archive/refs/heads/main.zip)
 
 ## reset.css
 Remove all css formats of browsers.  
