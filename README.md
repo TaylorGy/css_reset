@@ -12,7 +12,7 @@ link:
 <link rel="stylesheet" href="https://meyerweb.com/eric/tools/css/reset/reset.css">
 ```
 ```HTML
-<link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/reset.css">
+<link rel="stylesheet" href="https://raw.githack.com/taylorgy/lib-css/main/reset.css">
 ```
 
 ## normalize.css
@@ -25,7 +25,7 @@ link:
 <link rel="stylesheet" href="https://necolas.github.io/normalize.css/latest/normalize.css">
 ```
 ```HTML
-<link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/normalize.css">
+<link rel="stylesheet" href="https://raw.githack.com/taylorgy/lib-css/main/normalize.css">
 ```
 
 ## clearfix.css
@@ -36,5 +36,5 @@ Solve problems of "margin collapsing" and "height crash" by simply add a class "
 ## preset.css
 integrate all settings and remove "text-decoration" for links
 ```HTML
-<link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/preset.css">
+<link rel="stylesheet" href="https://raw.githack.com/taylorgy/lib-css/main/preset.css">
 ```
