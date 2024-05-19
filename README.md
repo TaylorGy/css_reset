@@ -29,12 +29,16 @@ link:
 ```
 
 ## clearfix.css
-Solve problems of "margin collapsing" and "height crash" by simply add a class "clearfix"  
+Solve problems of "margin collapsing" and "height crash" by simply add a class "clearfix".  
 ```HTML
 <link rel="stylesheet" href="https://raw.githack.com/taylorgy/package-css/main/clearfix.css">
 ```
 ## preset.css
-integrate all settings and remove "text-decoration" for links
+integrate all settings and remove "text-decoration" for links.
 ```HTML
 <link rel="stylesheet" href="https://raw.githack.com/taylorgy/lib-css/main/preset.css">
 ```
+
+## switch.less
+switch element in HTML+CSS, using LESS for easier modification.
+download for use.
